@@ -22,12 +22,10 @@ Please carry an official government ID card for smooth entry into the IIRS campu
 - **Inauguration:** Golden Jubilee Lecture Hall at 09:30 AM, Monday, 16-Dec-2024
 
 ## Pre-course Preparation
-Participants are requested to complete the **Day 0 activities** available in the [GitHub repository](https://github.com/ashutoshkumarjha/BigAI4BigGIS) before attending the course. This will help facilitate smooth and effective learning.
+Participants are requested to complete the **Day 0 activities** available in the [GitHub repository](https://github.com/sudikin/BigAI4BigGIS) before attending the course. This will help facilitate smooth and effective learning.
 
 ### Resources for Day0 activities
-1. [Exercise 0: Colab Notebook](https://colab.research.google.com/drive/1NsR2_lZ3wjAfnsn3sSVwSvhlTtr9-cj5?usp=sharing)
-2. [Exercise 1a: Dataset and Activities](https://drive.google.com/file/d/18usxRKoJO7xCUOaJ4cAo95BGI8tCbAEH/view?usp=sharing)  
-3. [Exercise 1b: Create your IBM token](https://github.com/sudikin/BigAI4BigGIS/blob/845517796339a343a24c826b771c93f5ad99651c/Day%200/API_Token.mp4)
+Go through the Day0 activities
 
 
 ## System Requirements
