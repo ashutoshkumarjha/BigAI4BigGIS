@@ -5,7 +5,7 @@ Welcome to the **BigAI for BigGIS** course, organized by the Geoinformatics Depa
 
 This course will run from **15th to 21st December 2024** at the IIRS campus. Below, we have outlined essential information to ensure your participation is smooth and effective.
 
-![Welcome to IIRS](https://i.ibb.co/3W7F5sp/iirs-campus.jpg)
+## Welcome to IIRS
 
 ## Communication
 Join our WhatsApp group for effective communication: [BigAI for BigGIS WhatsApp Group Invite](https://chat.whatsapp.com/J1IJG361DnaF7oDGa80GWR).
@@ -29,7 +29,6 @@ Participants are requested to complete the **Day 0 activities** available in the
 2. [Exercise 1a: Dataset and Activities](https://drive.google.com/file/d/18usxRKoJO7xCUOaJ4cAo95BGI8tCbAEH/view?usp=sharing)  
 3. [Exercise 1b: Create your IBM token](https://github.com/sudikin/BigAI4BigGIS/blob/845517796339a343a24c826b771c93f5ad99651c/Day%200/API_Token.mp4)
 
-![Learning AI and GIS](https://i.ibb.co/5nR50T0/ai-gis.jpg)
 
 ## System Requirements
 Participants will be provided access to systems for hands-on activities. The Colab platform will be used. If you plan to work on your own laptop:
@@ -50,7 +49,6 @@ Participants will be provided access to systems for hands-on activities. The Col
 - **Institute:** [IIRS Location](https://maps.app.goo.gl/wofESYD6Qdmdwxu77)
 - **Golden Jubilee Hostel:** [Hostel Location](https://maps.app.goo.gl/BbVQVwCXBacfPoLP7)
 
-![Golden Jubilee Hostel](https://i.ibb.co/qChFr2b/hostel.jpg)
 
 ## Contact
 For any queries, contact:
