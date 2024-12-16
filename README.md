@@ -3,7 +3,7 @@
 
 Welcome to the **BigAI for BigGIS** course, organized by the Geoinformatics Department, Indian Institute of Remote Sensing (IIRS), Dehradun, India.
 
-This course will run from **16th to 20st December 2024** at the IIRS campus. Below, we have outlined essential information to ensure your participation is smooth and effective.
+This course will run from **16th to 20th December 2024** at the IIRS campus. Below, we have outlined essential information to ensure your participation is smooth and effective.
 
 ## Welcome to IIRS
 
