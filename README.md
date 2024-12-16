@@ -3,12 +3,12 @@
 
 Welcome to the **BigAI for BigGIS** course, organized by the Geoinformatics Department, Indian Institute of Remote Sensing (IIRS), Dehradun, India.
 
-This course will run from **15th to 21st December 2024** at the IIRS campus. Below, we have outlined essential information to ensure your participation is smooth and effective.
+This course will run from **16th to 20st December 2024** at the IIRS campus. Below, we have outlined essential information to ensure your participation is smooth and effective.
 
 ## Welcome to IIRS
 
 ## Communication
-Join our WhatsApp group for effective communication: [BigAI for BigGIS WhatsApp Group Invite](https://chat.whatsapp.com/J1IJG361DnaF7oDGa80GWR).
+Join our WhatsApp group for effective communication: [BigAI for BigGIS WhatsApp Group Invite](Closed).
 
 ## Reporting
 - **Date:** Sunday, 15-Dec-2024  
@@ -22,7 +22,7 @@ Please carry an official government ID card for smooth entry into the IIRS campu
 - **Inauguration:** Golden Jubilee Lecture Hall at 09:30 AM, Monday, 16-Dec-2024
 
 ## Pre-course Preparation
-Participants are requested to complete the **Day 0 activities** available in the [GitHub repository](https://github.com/sudikin/BigAI4BigGIS) before attending the course. This will help facilitate smooth and effective learning.
+Participants are requested to complete the **Day 0 activities** available in the [GitHub repository](https://github.com/ashutoshkumarjha/BigAI4BigGIS) before attending the course. This will help facilitate smooth and effective learning.
 
 ### Resources for Day0 activities
 Go through the Day0 activities
@@ -50,12 +50,18 @@ Participants will be provided access to systems for hands-on activities. The Col
 
 ## Contact
 For any queries, contact:
-- **Student Coordinator:** Mr. Sudikin Pramanik (+91 9153094664)
+- **Student Coordinator:** Mr. Sudikin Pramanik (+91 xxxxxxxxx)
 
 ## Departure
 Please ensure to settle all dues before your departure.
 
+Please ensure to settle all dues before your departure.
 ---
+
+## Practicle Material
+Daywise content is given under following Folders.
+- [Day0](./Day0-Warmup/)
+- [Day1](./Day1-Quantum%20Computing/)
 
 **Best Regards,**  
 Organizers, BigAI for BigGIS
